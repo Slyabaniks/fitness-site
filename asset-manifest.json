@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fitness-site/static/css/main.df758676.chunk.css",
+    "main.js": "/fitness-site/static/js/main.feb754c7.chunk.js",
+    "main.js.map": "/fitness-site/static/js/main.feb754c7.chunk.js.map",
+    "runtime-main.js": "/fitness-site/static/js/runtime-main.ca2ea356.js",
+    "runtime-main.js.map": "/fitness-site/static/js/runtime-main.ca2ea356.js.map",
+    "static/js/2.67401620.chunk.js": "/fitness-site/static/js/2.67401620.chunk.js",
+    "static/js/2.67401620.chunk.js.map": "/fitness-site/static/js/2.67401620.chunk.js.map",
+    "index.html": "/fitness-site/index.html",
+    "static/css/main.df758676.chunk.css.map": "/fitness-site/static/css/main.df758676.chunk.css.map",
+    "static/js/2.67401620.chunk.js.LICENSE.txt": "/fitness-site/static/js/2.67401620.chunk.js.LICENSE.txt",
+    "static/media/1.fbee5905.svg": "/fitness-site/static/media/1.fbee5905.svg",
+    "static/media/2.feb15d4d.svg": "/fitness-site/static/media/2.feb15d4d.svg",
+    "static/media/3.6982ec5e.svg": "/fitness-site/static/media/3.6982ec5e.svg",
+    "static/media/4.8abbe426.svg": "/fitness-site/static/media/4.8abbe426.svg",
+    "static/media/index.css": "/fitness-site/static/media/offer.1cafdcd5.png",
+    "static/media/gym2.e01a78f7.jpg": "/fitness-site/static/media/gym2.e01a78f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca2ea356.js",
+    "static/js/2.67401620.chunk.js",
+    "static/css/main.df758676.chunk.css",
+    "static/js/main.feb754c7.chunk.js"
+  ]
+}
